@@ -1,9 +1,1 @@
-{
-  "extends": "./tsconfig.json",
-  "compilerOptions": {
-    "rootDirs": ["./src", "./tests"],
-    "isolatedModules": true,
-    "esModuleInterop": true
-  },
-  "include": ["./src/**/*", "./tests/**/*"]
-}
+م صار وجودك يفرق ولا لو داعي ولا مهم ف حياتي 
